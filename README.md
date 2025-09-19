@@ -100,7 +100,7 @@ Spécialités: developpement_economique, lycees, formation, transport, amenageme
 
 📦 Données: Démographie, finances, investissements, dette
 
-<img width="646" height="465" alt="Screenshot_2025-09-20_02-01-36" src="https://github.com/user-attachments/assets/73759588-673a-48ad-bd4c-2e8e0f7e7eda" />
+<img width="646" height="465" alt="Screenshot_2025-09-20_02-01-36" src="https://github.com/user-attachments/assets/f07beed8-d8c5-4fb0-abbc-466445b10552" />
 
 
 
@@ -115,11 +115,12 @@ Spécialités: developpement_economique, lycees, formation, transport, amenageme
 
 # RESULTATS ( GRAPHIQUES ) DEPARTEMENT
 
-<img width="5972" height="7069" alt="Département_Réunion_financial_analysis" src="https://github.com/user-attachments/assets/9e0d8e6b-faa4-4e67-a136-4251b960e9eb" />
+<img width="5972" height="7069" alt="Département_Réunion_financial_analysis" src="https://github.com/user-attachments/assets/a93d5ed1-625d-4f53-add1-67f368d4d2b2" />
 
 # RESULTATS ( GRAPHIQUES ) REGION 
 
-<img width="5973" height="7069" alt="Région_Réunion_financial_analysis" src="https://github.com/user-attachments/assets/64bb7a9b-a5ba-4b7c-91e9-e66025ec14ed" />
+<img width="5973" height="7069" alt="Région_Réunion_financial_analysis" src="https://github.com/user-attachments/assets/cc615e53-57f2-4806-a703-9ce8a3d81013" />
+
 
 
 PS : CE SCRIPT GENERE LES RESULTATS D'ANALYSES AU FORMAT .csv ( TABLEUR ) 
